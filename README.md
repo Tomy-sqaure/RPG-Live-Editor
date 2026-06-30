@@ -28,7 +28,13 @@ Dialog
 
 Preferences
 
-## Roadmap
+## 🗺️ Roadmap
+
+The development roadmap is maintained separately.
+
+👉 See the full roadmap here:
+
+- [Roadmap](docs/ROADMAP.md)
 
 Simple Mode
 Advance Mode
