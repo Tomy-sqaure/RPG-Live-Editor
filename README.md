@@ -2,9 +2,11 @@
 
 A modern runtime editor and debugger for RPG Maker games.
 
-[ Screenshot ]
+RPG Live Editor (RLE) is a desktop application that allows real-time editing, debugging, and translation while the game is running.
 
-## Features
+---
+
+## ✨ Features
 
 - Runtime Editing
 - Live Translation
@@ -16,28 +18,48 @@ A modern runtime editor and debugger for RPG Maker games.
 - Lock State
 - Runtime Event Stream
 
-## Screenshots
+More features are under development.
 
-Launcher
+---
 
-General
+## 📸 Screenshots
 
-Battle
+### Launcher
 
-Dialog
+> *(Screenshot here)*
 
-Preferences
+### General
+
+> *(Screenshot here)*
+
+### Battle
+
+> *(Screenshot here)*
+
+### Dialog
+
+> *(Screenshot here)*
+
+### Preferences
+
+> *(Screenshot here)*
+
+---
 
 ## 🗺️ Roadmap
 
 The development roadmap is maintained separately.
 
-👉 See the full roadmap here:
+👉 **[View Roadmap](docs/ROADMAP.md)**
 
-- [Roadmap](docs/roadmap.md)
+Current development focuses on:
 
-Simple Mode
-Advance Mode
-Debugger Mode
+- Simple Mode
+- Advance Mode
+- Debugger Mode
 
-## License
+---
+
+## 📄 License
+
+This project is licensed under the MIT License.
