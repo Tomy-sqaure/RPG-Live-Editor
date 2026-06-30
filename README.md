@@ -34,7 +34,7 @@ The development roadmap is maintained separately.
 
 👉 See the full roadmap here:
 
-- [Roadmap](docs/ROADMAP.md)
+- [Roadmap](docs/roadmap.md)
 
 Simple Mode
 Advance Mode
