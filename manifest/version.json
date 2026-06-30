@@ -1,16 +1,28 @@
 {
-  "name": "RPG Live Editor",
-  "shortName": "RLE",
+  "app": {
+    "name": "RPG Live Editor",
+    "shortName": "RLE",
+    "version": "1.0.0",
+    "channel": "stable",
+    "build": 1,
+    "releaseDate": "2026-06-30",
+    "minimumSupportedVersion": "1.0.0"
+  },
 
-  "version": "1.0.0",
-  "channel": "stable",
+  "project": {
+    "homepage": "https://github.com/Tomy-sqaure/RPG-Live-Editor",
+    "latestNews": "Added Auto Defend panel."
+  },
 
-  "build": 1,
-  "releaseDate": "2026-06-30",
+  "statistics": {
+    "components": 53,
+    "linesOfCode": 18274,
+    "runtimeHooks": 67
+  },
 
-  "minimumSupportedVersion": "1.0.0",
-
-  "homepage": "https://github.com/Tomy-sqaure/RPG-Live-Editor/",
-
-  "latestNews": "Added Auto Defend panel."
+  "supportedGames": [
+    "Journey to the East",
+    "Special Mission Girl Aigis",
+    "Devil's Night Party"
+  ]
 }
