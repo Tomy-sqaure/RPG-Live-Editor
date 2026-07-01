@@ -13,11 +13,11 @@
     "latestNews": "Added Auto translate."
   },
   "statistics": {
-    "components": 201,
-    "linesOfCode": 31461,
+    "components": 202,
+    "linesOfCode": 31532,
     "runtimeHooks": 46,
     "lastCalculated": "2026-07-01",
-    "testedProjects": 54
+    "testedProjects": 55
   },
   "supportedGames": [
     "Journey to the East"
