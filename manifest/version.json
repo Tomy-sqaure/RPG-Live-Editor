@@ -16,8 +16,8 @@
     "components": 201,
     "linesOfCode": 31439,
     "runtimeHooks": 46,
-    "testedProjects": 58,
-    "lastCalculated": "2026-07-01"
+    "lastCalculated": "2026-07-01",
+    "testedProjects": 0
   },
   "supportedGames": [
     "Journey to the East"
