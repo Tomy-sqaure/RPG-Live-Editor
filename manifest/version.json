@@ -18,7 +18,8 @@
     "components": 53,
     "linesOfCode": 18274,
     "runtimeHooks": 67,
-    "lastCalculated": "2026-06-30"
+    "lastCalculated": "2026-06-30",
+    "testedProjects": 58
   },
 
   "supportedGames": [
