@@ -8,20 +8,16 @@
     "releaseDate": "2026-06-30",
     "minimumSupportedVersion": "1.0.0"
   },
-
   "project": {
     "homepage": "https://github.com/Tomy-sqaure/RPG-Live-Editor",
     "latestNews": "Added Auto translate."
   },
-
   "statistics": {
-    "components": 53,
-    "linesOfCode": 18274,
-    "runtimeHooks": 67,
-    "lastCalculated": "2026-06-30",
-    "testedProjects": 58
+    "components": 201,
+    "linesOfCode": 31439,
+    "runtimeHooks": 46,
+    "lastCalculated": "2026-07-01"
   },
-
   "supportedGames": [
     "Journey to the East"
   ]
