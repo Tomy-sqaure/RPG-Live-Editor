@@ -11,7 +11,7 @@
 
   "project": {
     "homepage": "https://github.com/Tomy-sqaure/RPG-Live-Editor",
-    "latestNews": "Added Auto Defend panel."
+    "latestNews": "Added Auto translate."
   },
 
   "statistics": {
@@ -22,8 +22,6 @@
   },
 
   "supportedGames": [
-    "Journey to the East",
-    "Special Mission Girl Aigis",
-    "Devil's Night Party"
+    "Journey to the East"
   ]
 }
